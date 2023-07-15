@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Poongkannan ",
+      "lastName": "Perumal",
+      "email": "kanna@gmail.com",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 4,
+      "package": 7,
+      "id": 1
+    },
+    {
+      "firstName": "Johni",
+      "lastName": "Sampal",
+      "email": "johni@gmail.com",
+      "dob": "2023-07-12T18:30:00.000Z",
+      "gender": "others",
+      "education": "Post Graduate",
+      "company": "Fb",
+      "experience": 5,
+      "package": 10,
+      "id": 2
+    },
+    {
+      "firstName": "Kowsik",
+      "lastName": "Murugesan",
+      "email": "gundaa@gmail.com",
+      "dob": "2023-07-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "Amazon",
+      "experience": 2,
+      "package": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Kowsik",
+      "lastName": "Murugesan",
+      "email": "gundaa@gmail.com",
+      "dob": "2023-07-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Meta",
+      "experience": 6,
+      "package": 3,
+      "id": 4
+    },
+    {
+      "firstName": "Johni",
+      "lastName": "Sampal",
+      "email": "johni@gmail.com",
+      "dob": "2023-07-12T18:30:00.000Z",
+      "gender": "others",
+      "education": "Metric",
+      "company": "Flipkart",
+      "experience": 5,
+      "package": 6,
+      "id": 5
+    },
+    {
+      "firstName": "Poongkannan ",
+      "lastName": "Perumal",
+      "email": "kanna@gmail.com",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Google",
+      "experience": 4,
+      "package": 7,
+      "id": 6
+    },
+    {
+      "firstName": "Kowsik",
+      "lastName": "Murugesan",
+      "email": "gundaa@gmail.com",
+      "dob": "2023-07-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Amazon",
+      "experience": 6,
+      "package": 1,
+      "id": 7
+    },
+    {
+      "firstName": "Chan",
+      "lastName": "S",
+      "email": "chan@gmail.com",
+      "dob": "2023-07-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Tesla",
+      "experience": 9,
+      "package": 20,
+      "id": 8
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 9
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 10
+    }
+  ]
+}
